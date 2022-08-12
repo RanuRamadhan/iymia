@@ -15,9 +15,12 @@ const Layout = ({ children }) => {
       <Head>
         {/* Required meta tags */}
         <meta charSet="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1"
+        />
 
-        <title>IYMIA & NYMIA - Official Event</title>
+        <title>IYMIA - Official Event</title>
       </Head>
 
       {children}
