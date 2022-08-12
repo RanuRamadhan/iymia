@@ -167,7 +167,7 @@ Overview Area CSS
     size: cover;
   }
   &.bg1 {
-    background-image: url(/images/overview1.jpg);
+    background-image: url(/images/moslem.jpg);
   }
   &.bg2 {
     filter: drop-shadow(0px 25px 75px rgba(25, 34, 64, 0.1));
@@ -194,7 +194,11 @@ Features Area CSS
     border-radius: 50%;
     color: var(--whiteColor);
     transition: var(--transition);
-    background: linear-gradient(45.24deg, #9f5ff1 5.99%, #ff54b0 91.87%);
+    background: linear-gradient(
+      45.24deg,
+      #9f5ff1 5.99%,
+      #ff54b0 91.87%
+    );
     margin: {
       bottom: 20px;
     }
@@ -206,13 +210,25 @@ Features Area CSS
       transform: translateY(-50%);
     }
     &.bg2 {
-      background: linear-gradient(44.44deg, #006838 7.79%, #04aa57 94.18%);
+      background: linear-gradient(
+        44.44deg,
+        #006838 7.79%,
+        #04aa57 94.18%
+      );
     }
     &.bg3 {
-      background: linear-gradient(44.44deg, #3f75ff 7.79%, #4adeff 94.18%);
+      background: linear-gradient(
+        44.44deg,
+        #3f75ff 7.79%,
+        #4adeff 94.18%
+      );
     }
     &.bg4 {
-      background: linear-gradient(44.44deg, #04aa57 7.79%, #ffac30 94.18%);
+      background: linear-gradient(
+        44.44deg,
+        #04aa57 7.79%,
+        #ffac30 94.18%
+      );
     }
   }
   h3 {
@@ -261,7 +277,11 @@ Features Area CSS
         border-radius: 50%;
         color: var(--whiteColor);
         transition: var(--transition);
-        background: linear-gradient(45.24deg, #9f5ff1 5.99%, #ff54b0 91.87%);
+        background: linear-gradient(
+          45.24deg,
+          #9f5ff1 5.99%,
+          #ff54b0 91.87%
+        );
         margin: {
           left: auto;
           right: auto;
@@ -275,13 +295,25 @@ Features Area CSS
           transform: translateY(-50%);
         }
         &.bg2 {
-          background: linear-gradient(44.44deg, #006838 7.79%, #04aa57 94.18%);
+          background: linear-gradient(
+            44.44deg,
+            #006838 7.79%,
+            #04aa57 94.18%
+          );
         }
         &.bg3 {
-          background: linear-gradient(44.44deg, #3f75ff 7.79%, #4adeff 94.18%);
+          background: linear-gradient(
+            44.44deg,
+            #3f75ff 7.79%,
+            #4adeff 94.18%
+          );
         }
         &.bg4 {
-          background: linear-gradient(44.44deg, #04aa57 7.79%, #ffac30 94.18%);
+          background: linear-gradient(
+            44.44deg,
+            #04aa57 7.79%,
+            #ffac30 94.18%
+          );
         }
         &::before {
           position: absolute;
@@ -411,7 +443,12 @@ Blog Area CSS
       transition: var(--transition);
     }
     .tag {
-      background: linear-gradient(279.99deg, #9f5ff1 -1.19%, #ff54b0 50.99%, #ff9f5a 100%);
+      background: linear-gradient(
+        279.99deg,
+        #9f5ff1 -1.19%,
+        #ff54b0 50.99%,
+        #ff9f5a 100%
+      );
       color: var(--whiteColor);
       position: absolute;
       border-radius: 2px;
@@ -460,16 +497,35 @@ Blog Area CSS
       font-size: 20px;
 
       a {
-        transition: background-size 0.25s cubic-bezier(0.785, 0.135, 0.15, 0.86) 0s;
+        transition: background-size 0.25s
+          cubic-bezier(0.785, 0.135, 0.15, 0.86) 0s;
         position: relative;
         padding: 0.1% 0px;
         display: inline;
         color: inherit;
         background: {
-          image: -webkit-gradient(linear, left top, right top, from(currentColor), to(currentColor));
-          image: -webkit-linear-gradient(left, currentColor 0%, currentColor 100%);
-          image: -o-linear-gradient(left, currentColor 0%, currentColor 100%);
-          image: linear-gradient(to right, currentColor 0%, currentColor 100%);
+          image: -webkit-gradient(
+            linear,
+            left top,
+            right top,
+            from(currentColor),
+            to(currentColor)
+          );
+          image: -webkit-linear-gradient(
+            left,
+            currentColor 0%,
+            currentColor 100%
+          );
+          image: -o-linear-gradient(
+            left,
+            currentColor 0%,
+            currentColor 100%
+          );
+          image: linear-gradient(
+            to right,
+            currentColor 0%,
+            currentColor 100%
+          );
           size: 0px 2px;
           position: 0px 95%;
           repeat: no-repeat;
