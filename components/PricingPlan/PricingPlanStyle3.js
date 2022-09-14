@@ -22,9 +22,9 @@ const PricingPlanStyle3 = () => {
                   Rp 2.5jt <span>/Team</span>
                 </div>
 
-                <Link href="/sign-in">
+                <a href="https://forms.gle/WsmszEb2MeRbwmzm9">
                   <a className="default-btn">Purchase Plan</a>
-                </Link>
+                </a>
 
                 <ul className="features-list">
                   <li>
@@ -57,9 +57,9 @@ const PricingPlanStyle3 = () => {
                   $300 <span>/Team</span>
                 </div>
 
-                <Link href="/sign-in">
+                <a href="https://forms.gle/WsmszEb2MeRbwmzm9">
                   <a className="default-btn">Purchase Plan</a>
-                </Link>
+                </a>
 
                 <ul className="features-list">
                   <li>
@@ -91,9 +91,9 @@ const PricingPlanStyle3 = () => {
                   $50 <span>/Team</span>
                 </div>
 
-                <Link href="/sign-in">
+                <a href="https://forms.gle/WsmszEb2MeRbwmzm9">
                   <a className="default-btn">Purchase Plan</a>
-                </Link>
+                </a>
 
                 <ul className="features-list">
                   <li>

@@ -346,6 +346,13 @@ const NavbarStyleTwo = () => {
                       </li>
                     </ul>
                   </li> */}
+                  <li className="nav-item">
+                    <a href="https://drive.google.com/file/d/1-OSrNpfKNyUKn21P3-ls2W6XuQdSXM7Z/view?usp=sharing" target="_blank" activeClassName="active">
+                      <a onClick={toggleNavbar} className="nav-link">
+                        Guide Book
+                      </a>
+                    </a>
+                  </li>
 
                   <li className="nav-item">
                     <Link href="/contact" activeClassName="active">
@@ -358,9 +365,9 @@ const NavbarStyleTwo = () => {
               </div>
 
               <div className="others-options">
-                <Link href="/">
+                <a href="https://forms.gle/WsmszEb2MeRbwmzm9" target="_blank">
                   <a className="default-btn">Register</a>
-                </Link>
+                </a>
               </div>
             </nav>
           </div>

@@ -12,9 +12,9 @@ const MainBanner = () => {
               <div className="banner-wrapper-content">
                 <span className="sub-title">IYMIA</span>
                 <h1>International Young Moslem Inventor Award</h1>
-                <Link href="/contact">
+                <a href="https://forms.gle/WsmszEb2MeRbwmzm9">
                   <a className="default-btn">Register Now!</a>
-                </Link>
+                </a>
               </div>
             </div>
             <div className="col-lg-7 col-md-12">
