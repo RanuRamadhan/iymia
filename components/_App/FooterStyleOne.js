@@ -82,8 +82,7 @@ const FooterStyleOne = () => {
 
             <p className="copyright">
               Copyright &copy; {currentYear}{' '}
-              <strong>Official Website</strong>. All Rights Reserved
-              by{' '}
+              <strong>IYMIA</strong>. Made by{' '}
               <a href="https://github.com/redheet" target="_blank">
                 RedHet
               </a>

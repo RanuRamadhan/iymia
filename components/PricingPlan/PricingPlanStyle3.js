@@ -37,9 +37,6 @@ const PricingPlanStyle3 = () => {
                     <i className="ri-check-line"></i> Lunch for 3 people x 1 day (at the time of judging) & snack for 3 people x 2 days.
                   </li>
                   <li>
-                    <i className="ri-check-line"></i> 1 medal / team and certificate for each person on the team.
-                  </li>
-                  <li>
                     <i className="ri-close-line"></i> Students (Elementary,Secondary,University) (each participant will get only e-certificate).
                   </li>
                 </ul>
@@ -70,9 +67,6 @@ const PricingPlanStyle3 = () => {
                   </li>
                   <li>
                     <i className="ri-check-line"></i> Lunch for 3 people x 1 day (at the time of judging) & snack for 3 people x 2 days.
-                  </li>
-                  <li>
-                    <i className="ri-check-line"></i> 1 medal / team and certificate for each person on the team.
                   </li>
                   <li>
                     <i className="ri-close-line"></i> Students (Elementary,Secondary,University) (each participant will get only e-certificate).
@@ -107,9 +101,6 @@ const PricingPlanStyle3 = () => {
                   </li>
                   <li>
                     <i className="ri-close-line"></i> Lunch for 3 people x 1 day (at the time of judging) & snack for 3 people x 2 days.
-                  </li>
-                  <li>
-                    <i className="ri-close-line"></i> 1 medal / team and certificate for each person on the team.
                   </li>
                 </ul>
               </div>
