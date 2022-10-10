@@ -51,7 +51,7 @@ const ContactInfo = () => {
                     <i className="ri-map-pin-line"></i>
                   </div>
                   <h3>
-                    Jl. Kemang No. 63 RT 03 RW 06 kp. kekupu, Jawa
+                    Jl. Kemang No. 63 RT 03 RW 06 Pasir Putih, Depok, Jawa
                     Barat 16519, Indonesia.
                   </h3>
                 </div>
