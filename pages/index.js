@@ -38,7 +38,7 @@ const IndexPage3 = () => {
 
       {/* <AppDownloadStyle2 /> */}
 
-      <PricingPlanStyle3 />
+      {/* <PricingPlanStyle3 /> */}
 
       <AppScreenshotsStyle6 />
 
