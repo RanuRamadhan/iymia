@@ -11,21 +11,19 @@ const BestAppEver = () => {
               <div className="overview-content">
                 <h2>Background IYMIA 2023</h2>
                 <p>
-                  Indonesia is one of the countries with the largest
-                  Muslim population in the world, with these
-                  advantages it is expected to be a force that is able
-                  to produce solutions to real problems that exist. In
-                  addition, science is developing so rapidly. This
-                  development requires students to be able to apply
-                  the knowledge gained. Therefore, the Indonesian
-                  Young Scientist Association &#40;IYSA&#41;
-                  collaborates with the …… Organizing a competition
-                  called the International Young Moslem Inventor Award
-                  &#40;IYMIA&#41;. <br />
+                  Indonesia is one of the countries with the largest Muslim
+                  population in the world, with these advantages it is expected to
+                  be a force that is able to produce solutions to real problems that
+                  exist. In addition, science is developing so rapidly. This
+                  development requires students to be able to apply the knowledge
+                  gained. Therefore, Indonesian Young Scientist Association (IYSA)
+                  collaborates with Department of Food Science and Technology,
+                  Institut Pertanian Bogor (IPB), organizing a competition called the
+                  International Young Moslem Inventor Award. <br />
                   <br />
-                  IYMIA is expected to be one of the right platforms
-                  to integrate science with religious knowledge for
-                  students both in Indonesia and abroad.
+                  IYMIA is expected to be one of the right platforms to integrate
+                  science with religious knowledge for students both in Indonesia
+                  and abroad.
                 </p>
 
                 <ul className="features-list">
