@@ -127,7 +127,7 @@ const IndexPage3 = () => {
                     <li>
                       If you can't find the email letter of
                       acceptance, please{' '}
-                      <strong>Check the Spam Email</strong>
+                      <strong>Check the Spam Folder</strong>
                     </li>
                     <li>
                       Contact our team if you don't receive any email{' '}
@@ -187,7 +187,7 @@ const IndexPage3 = () => {
               </div>
               <div className="col-lg-9 col-md-12 p-0">
                 <div className="content">
-                  <p>Presentation must be english langueges.</p>
+                  <p>Presentation must be in english.</p>
                   <img
                     src="/images/how-it-works/presentation.jpg"
                     alt="presentation"
