@@ -48,7 +48,7 @@ const IndexPage3 = () => {
 
       <div className="section-title">
         <span className="sub-title">========</span>
-        <h2>How to Register</h2>
+        <h2>Registration Process</h2>
         <br />
         <span className="sub-title">========</span>
       </div>
@@ -57,25 +57,12 @@ const IndexPage3 = () => {
           <div className="how-it-works-content">
             <div className="number">1</div>
 
-            <div className="row m-0">
-              <div className="col-lg-3 col-md-12 p-0">
-                <div className="box">
-                  <h3>Step 1</h3>
-                  <span>Register your team</span>
-                </div>
-              </div>
-
-              <div className="col-lg-9 col-md-12 p-0">
-                <div className="content">
-                  <p>
-                    Click the button registration on the top right off
-                    this website.
-                  </p>
-                  <img
-                    src="/images/how-it-works/registration.png"
-                    alt="register-team"
-                  />
-                </div>
+            <h2>How To Register?</h2>
+            <div className="video_content">
+              <div className="video">
+                <a className="popup-youtube video_icon" href="https://www.youtube.com/watch?v=DCw862udnZo">
+                  <i className="arrow_triangle-right"></i>
+                </a>
               </div>
             </div>
           </div>
@@ -104,53 +91,7 @@ const IndexPage3 = () => {
             </div>
           </div>
 
-          <div className="how-it-works-content">
-            <div className="number">3</div>
-            <div className="row m-0">
-              <div className="col-lg-3 col-md-12 p-0">
-                <div className="box">
-                  <h3>Step 3</h3>
-                  <span>Letter of Acceptance &#40;LoA&#41;</span>
-                </div>
-              </div>
-              <div className="col-lg-9 col-md-12 p-0">
-                <div className="content">
-                  <p>
-                    <strong>Attention!</strong>
-                  </p>
-                  <ul>
-                    <li>
-                      Open your <strong>email</strong> and click the
-                      link to download the letter of acceptance and
-                      invoice.
-                    </li>
-                    <li>
-                      If you can't find the email letter of
-                      acceptance, please{' '}
-                      <strong>Check the Spam Folder</strong>
-                    </li>
-                    <li>
-                      Contact our team if you don't receive any email{' '}
-                      <a
-                        href="https://wa.me/6281770914129"
-                        target="_blank"
-                      >
-                        Office team
-                      </a>{' '}
-                      or&nbsp;
-                      <a
-                        href="https://wa.me/6283117176995"
-                        target="_blank"
-                      >
-                        Astri
-                      </a>
-                    </li>
-                  </ul>
-                  <img src="/images/how-it-works/LoA.png" alt="LoA" />
-                </div>
-              </div>
-            </div>
-          </div>
+         
 
           <div className="how-it-works-content">
             <div className="number">4</div>
