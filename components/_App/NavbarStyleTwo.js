@@ -346,13 +346,13 @@ const NavbarStyleTwo = () => {
                       </li>
                     </ul>
                   </li> */}
-                  {/* <li className="nav-item">
+                  <li className="nav-item">
                     <a href="https://drive.google.com/file/d/1-OSrNpfKNyUKn21P3-ls2W6XuQdSXM7Z/view?usp=sharing" target="_blank" activeClassName="active">
                       <a onClick={toggleNavbar} className="nav-link">
                         Guide Book
                       </a>
                     </a>
-                  </li> */}
+                  </li>
 
                   <li className="nav-item">
                     <Link href="/contact" activeClassName="active">
