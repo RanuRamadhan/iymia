@@ -67,71 +67,10 @@ const IndexPage3 = () => {
 
           <div className="how-it-works-content">
             <div className="number">2</div>
-            <div className="row m-0">
-              <div className="col-lg-3 col-md-12 p-0">
-                <div className="box">
-                  <h3>Step 2</h3>
-                  <span>Notification Mail</span>
-                </div>
-              </div>
-              <div className="col-lg-9 col-md-12 p-0">
-                <div className="content">
-                  <p>
-                    We will send a confirmation email about the
-                    completed registration to your email.
-                  </p>
-                  <img
-                    src="/images/how-it-works/notification.png"
-                    alt="mail-notification"
-                  />
-                </div>
-              </div>
-            </div>
-          </div>
-
-
-
-          <div className="how-it-works-content">
-            <div className="number">4</div>
-            <div className="row m-0">
-              <div className="col-lg-3 col-md-12 p-0">
-                <div className="box">
-                  <h3>Step 4</h3>
-                  <span>Select Your Preferred Payment Method</span>
-                </div>
-              </div>
-              <div className="col-lg-9 col-md-12 p-0">
-                <div className="content">
-                  <p>
-                    Please select the payment that was sent to you in
-                    the previous email.
-                  </p>
-                  <img
-                    src="/images/how-it-works/payment-method.jpg"
-                    alt="payment-method"
-                  />
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div className="how-it-works-content">
-            <div className="number">5</div>
-            <div className="row m-0">
-              <div className="col-lg-3 col-md-12 p-0">
-                <div className="box">
-                  <h3>Step 5</h3>
-                  <span>Presentation Project Offline or Online</span>
-                </div>
-              </div>
-              <div className="col-lg-9 col-md-12 p-0">
-                <div className="content">
-                  <p>Presentation must be in english.</p>
-                  <img
-                    src="/images/how-it-works/presentation.jpg"
-                    alt="presentation"
-                  />
-                </div>
+            <h2>After Registered?</h2>
+            <div className="video_content">
+              <div className="video">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/YBhdvQ1p5xQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
             </div>
           </div>
