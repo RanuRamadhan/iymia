@@ -12,7 +12,7 @@ const MainBanner = () => {
               <div className="banner-wrapper-content">
                 <span className="sub-title">IYMIA</span>
                 <h1>International Young Moslem Inventor Award</h1>
-                <a href="https://forms.gle/WsmszEb2MeRbwmzm9">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScXpC2y4PjBWk81Ygmyt4oh3lTVLGjqNPYc-nAMp_GZTSV1WQ/viewform?usp=share_link">
                   <a className="default-btn">Register Now!</a>
                 </a>
               </div>
