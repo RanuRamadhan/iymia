@@ -42,7 +42,7 @@ const PartnerStyle2 = () => {
             <div className="partner-area ptb-100">
                 <div className="container">
                     <div className="partner-title">
-                        Trusted by world famous companies:
+                        <h2>ORGANIZED BY</h2>
                     </div>
 
                     {display ? <OwlCarousel 
@@ -55,7 +55,7 @@ const PartnerStyle2 = () => {
                         <div className="partner-item">
                             <img src="/images/partner/partner4.png" alt="partner" />
                         </div> 
-                        <div className="partner-item">
+                        {/* <div className="partner-item">
                             <img src="/images/partner/partner1.png" alt="partner" />
                         </div> 
                         <div className="partner-item">
@@ -72,7 +72,7 @@ const PartnerStyle2 = () => {
                         </div> 
                         <div className="partner-item">
                             <img src="/images/partner/partner8.png" alt="partner" />
-                        </div> 
+                        </div>  */}
                     </OwlCarousel> : ''}
                 </div>
             </div>
