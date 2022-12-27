@@ -1,6 +1,7 @@
 import React from 'react';
 import NavbarStyleOne from '@/components/_App/NavbarStyleOne';
 import MainBanner from '@/components/HomeDemo1/MainBanner';
+import TeamMemberStyle1 from '@/components/Common/TeamMemberStyle1TeamMemberStyle1';
 import Features from '@/components/HomeDemo1/Features';
 import IntroVideo from '@/components/HomeDemo1/IntroVideo';
 import BestAppEver from '@/components/HomeDemo1/BestAppEver';
@@ -20,6 +21,8 @@ const IndexPage = () => {
       <NavbarStyleOne />
 
       <MainBanner />
+
+      <TeamMemberStyle1 />
 
       <Features />
 
