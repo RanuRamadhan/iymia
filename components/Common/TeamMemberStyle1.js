@@ -6,8 +6,8 @@ const TeamMemberStyle1 = () => {
             <div className="team-area pt-100 pb-75">
                 <div className="container">
                     <div className="section-title">
-                        <span className="sub-title">OUR EXPERTS</span>
-                        <h2>Meet With Our Team Member</h2>
+                        <span className="sub-title">ORGANIZED BY</span>
+                        {/* <h2>Meet With Our Team Member</h2> */}
                     </div>
 
                     <div className="row justify-content-center">
