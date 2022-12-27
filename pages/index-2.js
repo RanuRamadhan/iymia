@@ -1,6 +1,7 @@
 import React from 'react';
 import NavbarStyleTwo from '@/components/_App/NavbarStyleTwo';
 import MainBanner from '@/components/HomeDemo2/MainBanner';
+import TeamMemberStyle1 from '@/components/Common/TeamMemberStyle1';
 import Features from '@/components/HomeDemo2/Features';
 import KeyFeatures from '@/components/HomeDemo2/KeyFeatures';
 import AppProgressStyle2 from '@/components/Common/AppProgressStyle2';
@@ -19,6 +20,8 @@ const IndexPage2 = () => {
             <NavbarStyleTwo /> 
 
             <MainBanner />
+
+            <TeamMemberStyle1 />
 
             <Features />
 
