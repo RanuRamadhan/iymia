@@ -20,11 +20,11 @@ const IndexPage3 = () => {
     <>
       <NavbarStyleTwo />
 
-      {/* <SphereGeometry /> */}
+      <SphereGeometry />
 
       <MainBanner />
 
-      {/* <PartnerStyle2 /> */}
+      <PartnerStyle2 />
 
       <BestAppEver />
 
