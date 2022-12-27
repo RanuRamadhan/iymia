@@ -24,7 +24,7 @@ const IndexPage3 = () => {
 
       <MainBanner />
 
-      {/* <PartnerStyle2 /> */}
+      <PartnerStyle2 />
 
       <BestAppEver />
 
