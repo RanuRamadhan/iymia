@@ -121,7 +121,7 @@ const NavbarStyleTwo = () => {
                         </Link>
                       </li>
                       <li className="nav-item">
-                        <Link href="https://drive.google.com/file/d/1NhFca_WD-kL1K2BzFLuMkaORP1URBliB/view?usp=share_link" activeClassName="active">
+                        <Link href="https://drive.google.com/file/d/1Lh0C1j_ljPH8Fg6IAwuRSLwPi-ETmlZ3/view?usp=share_link" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
                             Miica Special Award
                           </a>
