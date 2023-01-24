@@ -65,65 +65,79 @@ const NavbarStyleTwo = () => {
                       </a>
                     </Link>
                   </li>
-                  {/* <li className="nav-item">
+                  <li className="nav-item">
                     <Link href="#" activeClassName="active">
                       <a onClick={(e) => e.preventDefault()} className="dropdown-toggle nav-link">
-                        Home
+                        Final Result
                       </a>
                     </Link>
 
                     <ul className="dropdown-menu">
                       <li className="nav-item">
-                        <Link href="/" activeClassName="active">
+                        <Link href="https://drive.google.com/file/d/1-ikCxD9yAWIyxuk6YMcRWAqzOGXFUo_I/view?usp=share_link" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
-                            Home Demo - 1
+                           Final Result
                           </a>
                         </Link>
                       </li>
 
                       <li className="nav-item">
-                        <Link href="/index-2" activeClassName="active">
+                        <Link href="https://drive.google.com/file/d/1OeC3mB-7IhxlDrpMfPif9wxUNIFlLQhq/view?usp=share_link" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
-                            Home Demo - 2
+                            Best Project
                           </a>
                         </Link>
                       </li>
 
                       <li className="nav-item">
-                        <Link href="/index-3" activeClassName="active">
+                        <Link href="https://drive.google.com/file/d/1RSTgmSNBfVcm7CdetOKFCct4s7nqJtwz/view?usp=share_link" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
-                            Home Demo - 3
+                            Cash Prize
                           </a>
                         </Link>
                       </li>
 
                       <li className="nav-item">
-                        <Link href="/index-4" activeClassName="active">
+                        <Link href="https://drive.google.com/file/d/1W31F346BaPubj-2hrW2QB8XfFpyndbkW/view?usp=share_link" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
-                            Home Demo - 4
+                            Departement of food science
                           </a>
                         </Link>
                       </li>
 
                       <li className="nav-item">
-                        <Link href="/index-5" activeClassName="active">
+                        <Link href="https://drive.google.com/file/d/14Irq3-cVdwfq-V_a3Q64GEx6egCnRZ_-/view?usp=share_link" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
-                            Home Demo - 5
+                            IYSA Special Award
                           </a>
                         </Link>
                       </li>
 
                       <li className="nav-item">
-                        <Link href="/index-6" activeClassName="active">
+                        <Link href="https://drive.google.com/file/d/1NhFca_WD-kL1K2BzFLuMkaORP1URBliB/view?usp=share_link" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
-                            Home Demo - 6
+                            IYSA Semi Grand Award
+                          </a>
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link href="https://drive.google.com/file/d/1NhFca_WD-kL1K2BzFLuMkaORP1URBliB/view?usp=share_link" activeClassName="active">
+                          <a onClick={toggleNavbar} className="nav-link">
+                            Miica Special Award
+                          </a>
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link href="https://drive.google.com/file/d/1MTI7V3aPOLfUvOG2TRTmJXx5vvIcb5G4/view?usp=share_link" activeClassName="active">
+                          <a onClick={toggleNavbar} className="nav-link">
+                            Myso Special Award
                           </a>
                         </Link>
                       </li>
                     </ul>
                   </li>
 
-                  <li className="nav-item">
+                  {/* <li className="nav-item">
                     <Link href="#">
                       <a onClick={(e) => e.preventDefault()} className="dropdown-toggle nav-link">
                         About Us
