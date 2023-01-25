@@ -151,6 +151,96 @@ const Gallery = () => {
                                 </div>
                             </div>
                         </div>
+                        <div className="col-lg-4 col-sm-6 col-md-6">
+                            <div className="single-gallery-item">
+                                <div 
+                                    className="popup-image" 
+                                    onClick={e => {e.preventDefault(); setIsOpenImage(true); setPhotoIndex(8);}}
+                                >
+                                    <img src="/images/gallery/gallery10.JPG" alt="image" />
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-sm-6 col-md-6">
+                            <div className="single-gallery-item">
+                                <div 
+                                    className="popup-image" 
+                                    onClick={e => {e.preventDefault(); setIsOpenImage(true); setPhotoIndex(8);}}
+                                >
+                                    <img src="/images/gallery/gallery11.JPG" alt="image" />
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-sm-6 col-md-6">
+                            <div className="single-gallery-item">
+                                <div 
+                                    className="popup-image" 
+                                    onClick={e => {e.preventDefault(); setIsOpenImage(true); setPhotoIndex(8);}}
+                                >
+                                    <img src="/images/gallery/gallery12.JPG" alt="image" />
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-sm-6 col-md-6">
+                            <div className="single-gallery-item">
+                                <div 
+                                    className="popup-image" 
+                                    onClick={e => {e.preventDefault(); setIsOpenImage(true); setPhotoIndex(8);}}
+                                >
+                                    <img src="/images/gallery/gallery13.JPG" alt="image" />
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-sm-6 col-md-6">
+                            <div className="single-gallery-item">
+                                <div 
+                                    className="popup-image" 
+                                    onClick={e => {e.preventDefault(); setIsOpenImage(true); setPhotoIndex(8);}}
+                                >
+                                    <img src="/images/gallery/gallery14.JPG" alt="image" />
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-sm-6 col-md-6">
+                            <div className="single-gallery-item">
+                                <div 
+                                    className="popup-image" 
+                                    onClick={e => {e.preventDefault(); setIsOpenImage(true); setPhotoIndex(8);}}
+                                >
+                                    <img src="/images/gallery/gallery15.JPG" alt="image" />
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-sm-6 col-md-6">
+                            <div className="single-gallery-item">
+                                <div 
+                                    className="popup-image" 
+                                    onClick={e => {e.preventDefault(); setIsOpenImage(true); setPhotoIndex(8);}}
+                                >
+                                    <img src="/images/gallery/gallery16.JPG" alt="image" />
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-sm-6 col-md-6">
+                            <div className="single-gallery-item">
+                                <div 
+                                    className="popup-image" 
+                                    onClick={e => {e.preventDefault(); setIsOpenImage(true); setPhotoIndex(8);}}
+                                >
+                                    <img src="/images/gallery/gallery17.JPG" alt="image" />
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-sm-6 col-md-6">
+                            <div className="single-gallery-item">
+                                <div 
+                                    className="popup-image" 
+                                    onClick={e => {e.preventDefault(); setIsOpenImage(true); setPhotoIndex(8);}}
+                                >
+                                    <img src="/images/gallery/gallery18.JPG" alt="image" />
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
