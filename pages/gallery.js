@@ -15,6 +15,15 @@ const images = [
     ('/images/gallery/gallery7.jpg'),
     ('/images/gallery/gallery8.jpg'),
     ('/images/gallery/gallery9.jpg'),
+    ('/images/gallery/gallery10.jpg'),
+    ('/images/gallery/galler11.jpg'),
+    ('/images/gallery/gallery12.jpg'),
+    ('/images/gallery/gallery13.jpg'),
+    ('/images/gallery/gallery14.jpg'),
+    ('/images/gallery/gallery15.jpg'),
+    ('/images/gallery/gallery16.jpg'),
+    ('/images/gallery/gallery17.jpg'),
+    ('/images/gallery/gallery18.jpg'),
 ];
 
 const Gallery = () => {
