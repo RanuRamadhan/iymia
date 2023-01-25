@@ -1,7 +1,7 @@
 import React from 'react'
 import NavbarStyleOne from '@/components/_App/NavbarStyleOne'
 import PageBannerStyle1 from '@/components/Common/PageBannerStyle1'
-import AppDownloadStyle2 from '@/components/Common/AppDownloadStyle2'
+// import AppDownloadStyle2 from '@/components/Common/AppDownloadStyle2'
 import Lightbox from 'react-image-lightbox'
 import FooterStyleOne from '@/components/_App/FooterStyleOne' 
  
