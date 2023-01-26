@@ -74,6 +74,16 @@ const IndexPage3 = () => {
               </div>
             </div>
           </div>
+
+          <div className="how-it-works-content">
+            <div className="number">2</div>
+            <h2>After Movie 2023</h2>
+            <div className="video_content">
+              <div className="video">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/p3fosnqz5OY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 
