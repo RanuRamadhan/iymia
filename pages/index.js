@@ -76,7 +76,7 @@ const IndexPage3 = () => {
           </div>
 
           <div className="how-it-works-content">
-            <div className="number">2</div>
+            <div className="number">3</div>
             <h2>After Movie 2023</h2>
             <div className="video_content">
               <div className="video">
