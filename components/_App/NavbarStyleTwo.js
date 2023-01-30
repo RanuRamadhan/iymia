@@ -134,6 +134,12 @@ const NavbarStyleTwo = () => {
                           </a>
                         </Link>
                       </li>
+                      <li className="nav-item">
+                        <Link href="https://drive.google.com/drive/folders/13Xy2A5KjBuoRmLZCVthoqu5m105pXwSK?usp=share_link" activeClassName="active">
+                          <a onClick={toggleNavbar} className="nav-link">
+                            Sertifikat Supervisor
+                          </a>
+                        </Link>
                     </ul>
                   </li>
 
