@@ -406,7 +406,7 @@ const NavbarStyleTwo = () => {
                   <li className="nav-item">
                     <Link href="/faq" activeClassName="active">
                       <a onClick={toggleNavbar} className="nav-link">
-                        FAQ
+                        FaQ
                       </a>
                     </Link>
                   </li>
