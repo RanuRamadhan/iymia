@@ -14,11 +14,12 @@ import {
 const FAQ = () => {
     return (
         <>
+            <NavbarStyleTwo /> 
 
             <PageBannerStyle1 
                 pageTitle="Frequently Asked Questions"
                 homePageUrl="/"
-                homePageText="Home"
+                homePageText="Home" 
                 activePageText="FAQ"
             />
 
