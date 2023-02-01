@@ -71,7 +71,7 @@ const FooterStyleTwo = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/faq">
+                    <Link href="faq">
                       <a>FAQ's</a>
                     </Link>
                   </li>
@@ -104,7 +104,7 @@ const FooterStyleTwo = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/faq">
+                    <Link href="faq">
                       <a>FAQ's</a>
                     </Link>
                   </li>
