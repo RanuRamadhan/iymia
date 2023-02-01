@@ -1,4 +1,5 @@
 import React from 'react'
+import NavbarStyleOne from '../components/_App/NavbarStyleOne'
 import NavbarStyleTwo from '@/components/_App/NavbarStyleTwo'
 import PageBannerStyle1 from '@/components/Common/PageBannerStyle1'
 import FooterStyleOne from '@/components/_App/FooterStyleOne'
@@ -30,12 +31,12 @@ const FAQ = () => {
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
                                         <span>
-                                            Why are consultants important?
+                                           FAQ
                                         </span>
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
 
-                                <AccordionItemPanel>
+                                {/* <AccordionItemPanel>
                                     <p><strong>Texap</strong> is always looking for talented <a href="/faq">information</a> security and IT risk management professionals who are dedicated, hard working and looking for a challenge. If you are interested in employment with <strong>Texap</strong>, a company who values you and your family, visit our careers page.</p>
                                     <ul>
                                         <li>a console</li>
@@ -45,7 +46,7 @@ const FAQ = () => {
                                         <li>A dock which you can use to connect your console to the television for traditional gameplay</li>
                                     </ul>
                                 </AccordionItemPanel>
-                            </AccordionItem>
+                            </AccordionItem> */}
 
                             <AccordionItem uuid="b">
                                 <AccordionItemHeading>
