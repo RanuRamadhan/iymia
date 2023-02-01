@@ -1,5 +1,5 @@
 import React from 'react'
-import NavbarStyleTwo from '@/components/_App/NavbarStyleTwo'
+// import NavbarStyleTwo from '@/components/_App/NavbarStyleTwo'
 import PageBannerStyle1 from '@/components/Common/PageBannerStyle1'
 import FooterStyleOne from '@/components/_App/FooterStyleOne'
 import {
@@ -133,7 +133,7 @@ const FAQ = () => {
                 </div>
             </div>
  
-            {/* <div className="contact-info-area pb-100">
+            <div className="contact-info-area pb-100">
                 <div className="container">
                     <div className="contact-info-inner">
                         <h2>Have any question in mind please call or mail us</h2>
@@ -164,7 +164,7 @@ const FAQ = () => {
                         </div>
                     </div>
                 </div>
-            </div> */}
+            </div>
  
             <FooterStyleOne />
         </>
