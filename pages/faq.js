@@ -1,5 +1,4 @@
 import React from 'react'
-// import NavbarStyleOne from '@/components/_App/NavbarStyleOne'
 import NavbarStyleTwo from '@/components/_App/NavbarStyleTwo'
 import PageBannerStyle1 from '@/components/Common/PageBannerStyle1'
 import FooterStyleOne from '@/components/_App/FooterStyleOne'
