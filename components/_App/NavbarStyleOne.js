@@ -221,7 +221,7 @@ const NavbarStyleOne = () => {
                                   </Link>
                                 </li>
                                 <li>
-                                  <Link href="/faq" activeClassName="active">
+                                  <Link href="faq" activeClassName="active">
                                     <a onClick={toggleNavbar}>FAQ</a>
                                   </Link>
                                 </li>
