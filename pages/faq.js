@@ -14,7 +14,6 @@ import {
 const FAQ = () => {
     return (
         <>
-            <NavbarStyleOne /> 
 
             <PageBannerStyle1 
                 pageTitle="Frequently Asked Questions"
