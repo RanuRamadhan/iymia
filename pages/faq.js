@@ -104,7 +104,7 @@ const FAQ = () => {
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
                                         <span>
-                                        When will the receipt be sent to us?yes
+                                        When will the receipt be sent to us?
                                         </span>
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
