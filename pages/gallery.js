@@ -3,6 +3,7 @@ import NavbarStyleOne from '@/components/_App/NavbarStyleOne'
 import PageBannerStyle1 from '@/components/Common/PageBannerStyle1'
 import Lightbox from 'react-image-lightbox'
 import FooterStyleOne from '@/components/_App/FooterStyleOne' 
+import NavbarStyleTwo from '@/components/_App/NavbarStyleTwo'
  
 const images = [
     ('/images/gallery/gallery1.jpg'),
@@ -32,7 +33,7 @@ const Gallery = () => {
 
     return (
         <>
-            <NavbarStyleOne /> 
+            <NavbarStyleTwo /> 
 
             <PageBannerStyle1 
                 pageTitle="Gallery"

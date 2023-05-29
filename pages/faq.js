@@ -13,7 +13,7 @@ import {
 const FAQ = () => {
     return (
         <>
-            <NavbarStyleOne /> 
+            <NavbarStyleTwo /> 
 
             <PageBannerStyle1 
                 pageTitle="Frequently Asked Questions"
