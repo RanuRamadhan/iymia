@@ -76,7 +76,7 @@ const NavbarStyleTwo = () => {
                       <li className="nav-item">
                         <Link href="https://drive.google.com/file/d/1-ikCxD9yAWIyxuk6YMcRWAqzOGXFUo_I/view?usp=share_link" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
-                           Final Result
+                            Final Result
                           </a>
                         </Link>
                       </li>
@@ -403,13 +403,13 @@ const NavbarStyleTwo = () => {
                   </li>
 
 
-                  <li className="nav-item">
+                  {/* <li className="nav-item">
                     <Link href="/faq" activeClassName="active">
                       <a onClick={toggleNavbar} className="nav-link">
                         FaQ
                       </a>
                     </Link>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
 
